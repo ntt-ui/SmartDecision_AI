@@ -1,0 +1,6 @@
+{
+  "name": "SmartDecision AI - Nền tảng ra quyết định WSM",
+  "description": "Nền tảng hỗ trợ ra quyết định cho doanh nghiệp bằng phương pháp Ma trận Trọng số (WSM) kết hợp Trợ lý AI phân tích và đề xuất chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
